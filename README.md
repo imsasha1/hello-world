@@ -1,2 +1,4 @@
-# hello-world
-First repository
+Hello..
+Sasha here..
+
+New to github.. 
